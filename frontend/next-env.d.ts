@@ -1,3 +1,4 @@
+// This file is about the Next.js ambient type declarations that the framework generates.
 /// <reference types="next" />
 /// <reference types="next/image-types/global" />
 

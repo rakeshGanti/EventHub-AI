@@ -1,4 +1,5 @@
 'use client';
+// This file is about the registration page with a password rule checklist and form validation.
 import { useState } from 'react';
 import Link from 'next/link';
 import { useAuth } from '@/lib/hooks/useAuth';

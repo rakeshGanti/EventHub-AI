@@ -1,3 +1,4 @@
+// This file is about the root App Router layout that wires fonts, providers, auth guard, and shell.
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';

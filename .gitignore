@@ -1,3 +1,4 @@
+# This file is about which files and folders git ignores (node_modules, env files, build output).
 # Dependencies
 node_modules/
 **/node_modules/

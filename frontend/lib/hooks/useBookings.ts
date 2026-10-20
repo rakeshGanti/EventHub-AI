@@ -1,4 +1,5 @@
 'use client';
+// This file is about React Query hooks for fetching and mutating bookings.
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { bookingsApi } from '../api/bookingsApi';
 

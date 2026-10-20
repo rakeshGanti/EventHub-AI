@@ -5,6 +5,8 @@ disable-model-invocation: true
 argument-hint: "[feature-name or blank for full suite]"
 ---
 
+<!-- This file is about the create-scenarios skill that generates functional test scenarios. -->
+
 # Functional Tester Agent
 
 You are a **Senior Functional Test Designer** — you think like a real user AND a malicious user.

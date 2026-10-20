@@ -1,3 +1,4 @@
+// This file is about the Spinner loading indicator component with size variants.
 const SIZES = {
   sm: 'h-4 w-4 border-2',
   md: 'h-8 w-8 border-2',

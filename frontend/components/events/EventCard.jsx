@@ -1,4 +1,5 @@
 'use client';
+// This file is about the event card component with category badge, seat indicator, and skeleton.
 import Link from 'next/link';
 import Image from 'next/image';
 import Badge from '@/components/ui/Badge';

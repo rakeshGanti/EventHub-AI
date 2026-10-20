@@ -1,4 +1,5 @@
 'use client';
+// This file is about the reusable Modal with portal rendering, Escape-to-close, and scroll lock.
 import { useEffect, useState } from 'react';
 import { createPortal } from 'react-dom';
 

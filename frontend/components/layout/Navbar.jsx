@@ -1,4 +1,5 @@
 'use client';
+// This file is about the top navigation bar with links, admin menu, mobile menu, and user actions.
 import { useState, useRef, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';

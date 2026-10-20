@@ -1,4 +1,5 @@
 'use client';
+// This file is about the events browse page with search, category, and city filters.
 import { Suspense } from 'react';
 import Link from 'next/link';
 import { useSearchParams, useRouter, usePathname } from 'next/navigation';

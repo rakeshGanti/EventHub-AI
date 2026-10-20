@@ -1,3 +1,4 @@
+// This file is about the Express routes for bookings (/api/bookings), with Swagger docs.
 const express = require('express');
 const router = express.Router();
 

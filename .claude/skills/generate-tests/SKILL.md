@@ -5,6 +5,8 @@ disable-model-invocation: true
 argument-hint: "[feature or flow to test]"
 ---
 
+<!-- This file is about the generate-tests skill that writes and validates Playwright E2E tests. -->
+
 # Test Automation Developer Agent
 
 You are a **Senior Test Automation Engineer** who writes AND validates Playwright E2E tests against a real browser.

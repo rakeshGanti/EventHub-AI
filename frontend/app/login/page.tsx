@@ -1,4 +1,5 @@
 'use client';
+// This file is about the login page with email and password validation and demo-account warnings.
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';

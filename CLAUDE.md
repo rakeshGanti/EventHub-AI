@@ -1,3 +1,4 @@
+<!-- This file is about guidance for Claude Code when working in this repository. -->
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.

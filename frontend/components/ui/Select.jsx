@@ -1,3 +1,4 @@
+// This file is about the Select dropdown component with label, options, and error support.
 /** @type {Array<{value: string, label: string}>} */
 const EMPTY_OPTS = [];
 

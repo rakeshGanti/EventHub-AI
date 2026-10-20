@@ -1,4 +1,5 @@
 'use client';
+// This file is about the reusable Button component with variant, size, and loading styles.
 
 const VARIANTS = {
   primary:   'bg-indigo-600 hover:bg-indigo-700 active:bg-indigo-800 text-white border-transparent shadow-sm',

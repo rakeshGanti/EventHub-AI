@@ -1,3 +1,4 @@
+-- This file is about the initial SQL migration that creates the EventHub database tables.
 -- CreateTable
 CREATE TABLE `User` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,

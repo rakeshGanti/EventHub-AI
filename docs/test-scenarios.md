@@ -1,3 +1,4 @@
+<!-- This file is about the booking management test scenarios (happy, business, security, edge, UI). -->
 # EventHub — Booking Management Test Scenarios
 
 Generated: 2026-03-06 | Extended: 2026-10-19

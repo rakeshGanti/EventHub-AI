@@ -1,4 +1,5 @@
 'use client';
+// This file is about the booking detail page with a confirmation view and refund eligibility check.
 import { useState } from 'react';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';

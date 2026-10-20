@@ -4,6 +4,8 @@ description: EventHub application domain knowledge — business rules, API endpo
 user-invocable: false
 ---
 
+<!-- This file is about the eventhub-domain skill with EventHub business rules and domain knowledge. -->
+
 # EventHub Domain Knowledge
 
 ## Overview

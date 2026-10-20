@@ -1,3 +1,4 @@
+// This file is about Playwright E2E tests for booking list, detail, cancel and refund flows.
 import { test, expect } from '@playwright/test';
 
 const USER_EMAIL    = 'rahulshetty1@gmail.com';

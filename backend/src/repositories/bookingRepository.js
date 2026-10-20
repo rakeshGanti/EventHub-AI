@@ -1,3 +1,4 @@
+// This file is about the Prisma data-access layer for booking queries and mutations.
 const prisma = require('../config/database');
 
 const bookingRepository = {

@@ -1,3 +1,4 @@
+// This file is about the events API client covering list, detail, create, update, and delete calls.
 import { apiClient } from './client';
 import type {
   ApiResponse,

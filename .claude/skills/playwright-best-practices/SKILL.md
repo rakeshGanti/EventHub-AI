@@ -4,6 +4,8 @@ description: Playwright E2E test automation standards — locator strategy, asse
 user-invocable: false
 ---
 
+<!-- This file is about the Playwright best-practices skill with E2E test standards for EventHub. -->
+
 # Playwright Test Automation Best Practices for EventHub
 
 ## Overview

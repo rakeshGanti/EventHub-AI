@@ -1,4 +1,5 @@
 'use client';
+// This file is about the reusable confirm dialog built on Modal for destructive actions.
 import Modal from './Modal';
 import Button from './Button';
 

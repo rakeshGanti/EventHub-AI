@@ -1,3 +1,4 @@
+// This file is about the Prisma data-access layer for user lookup and creation.
 const prisma = require('../config/database');
 
 const userRepository = {

@@ -1,3 +1,4 @@
+// This file is about HTTP handlers for register, login and the current-user endpoint.
 const authService = require('../services/authService');
 
 const authController = {

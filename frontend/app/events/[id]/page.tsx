@@ -1,4 +1,5 @@
 'use client';
+// This file is about the event detail page with a booking form and booking confirmation view.
 import { useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import Link   from 'next/link';

@@ -1,3 +1,4 @@
+<!-- This file is about EventHub business rules for users, events, bookings and sandbox limits. -->
 # EventHub Business Rules
 
 ## 1. User Journey

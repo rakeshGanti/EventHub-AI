@@ -1,3 +1,4 @@
+// This file is about the Badge UI component with colored status variants.
 const VARIANTS = {
   success: 'bg-emerald-100 text-emerald-700 ring-1 ring-emerald-200',
   warning: 'bg-amber-100   text-amber-700   ring-1 ring-amber-200',

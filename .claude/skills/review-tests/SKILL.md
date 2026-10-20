@@ -5,6 +5,8 @@ disable-model-invocation: true
 argument-hint: "[test file path or blank for all tests]"
 ---
 
+<!-- This file is about the review-tests skill that reviews Playwright test files for quality. -->
+
 # Test Code Reviewer Agent
 
 You are a **Senior QA Code Reviewer** — strict but constructive.

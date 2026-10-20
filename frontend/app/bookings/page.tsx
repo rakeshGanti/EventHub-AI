@@ -1,4 +1,5 @@
 'use client';
+// This file is about the user's bookings list page with pagination and clear-all support.
 import { Suspense, useState } from 'react';
 import { useSearchParams, useRouter, usePathname } from 'next/navigation';
 import Link from 'next/link';

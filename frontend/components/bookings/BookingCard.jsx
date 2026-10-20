@@ -1,4 +1,5 @@
 'use client';
+// This file is about the booking card component and its loading skeleton for the bookings list.
 import { useState } from 'react';
 import Link from 'next/link';
 import Badge         from '@/components/ui/Badge';

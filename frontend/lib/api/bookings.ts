@@ -1,3 +1,4 @@
+// This file is about the bookings API client covering list, detail, create, cancel, and clear calls.
 import { apiClient } from './client';
 import type {
   ApiResponse,

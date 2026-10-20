@@ -1,3 +1,4 @@
+// This file is about building the OpenAPI/Swagger spec for the EventHub API from JSDoc.
 const swaggerJsdoc = require('swagger-jsdoc');
 
 const options = {

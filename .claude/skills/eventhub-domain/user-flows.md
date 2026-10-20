@@ -1,3 +1,4 @@
+<!-- This file is about EventHub user flows and test data (registration, login, browsing, booking). -->
 # EventHub User Flows & Test Data
 
 ## Flow 1: Registration & Login

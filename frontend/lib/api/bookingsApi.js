@@ -1,3 +1,4 @@
+// This file is about frontend API client calls for listing, creating and cancelling bookings.
 import apiClient from './client';
 
 export const bookingsApi = {

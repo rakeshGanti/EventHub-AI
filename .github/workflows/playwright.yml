@@ -1,3 +1,4 @@
+# This file is about the GitHub Actions workflow that runs the Playwright E2E suite on push to main.
 # Playwright E2E Tests
 #
 # Runs the full Playwright suite whenever new code is pushed to main and

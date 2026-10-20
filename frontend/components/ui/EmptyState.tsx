@@ -1,3 +1,4 @@
+// This file is about the EmptyState component shown when a list or page has no content.
 import { ReactNode } from 'react';
 
 interface EmptyStateProps {

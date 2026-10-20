@@ -1,3 +1,4 @@
+/* This file is about the global Tailwind CSS base, component, and utility layers. */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

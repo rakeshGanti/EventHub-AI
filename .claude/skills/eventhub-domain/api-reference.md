@@ -1,3 +1,4 @@
+<!-- This file is about the EventHub REST API endpoints, request bodies and responses. -->
 # EventHub API Reference
 
 ## Authentication (No Auth Required)

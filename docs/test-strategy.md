@@ -1,3 +1,4 @@
+<!-- This file is about the booking management test strategy and which test pyramid layer each case uses. -->
 # EventHub - Booking Management Test Strategy
 
 Source: `docs/test-scenarios.md` (80 scenarios, TC-001..TC-514). Role: Test Strategist.

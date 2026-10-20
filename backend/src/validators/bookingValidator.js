@@ -1,3 +1,4 @@
+// This file is about express-validator rules for booking creation requests.
 const { body, validationResult } = require('express-validator');
 
 const handleValidationErrors = (req, res, next) => {

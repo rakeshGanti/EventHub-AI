@@ -1,4 +1,5 @@
 'use client';
+// This file is about React Query hooks for fetching and mutating events.
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
 import { eventsApi } from '../api/eventsApi';
 

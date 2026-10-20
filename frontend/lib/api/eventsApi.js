@@ -1,3 +1,4 @@
+// This file is about frontend API client calls for the events endpoints.
 import apiClient from './client';
 
 // Each function returns the raw API response body: { success, data, pagination? }

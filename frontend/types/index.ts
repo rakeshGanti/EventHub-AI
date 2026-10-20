@@ -1,3 +1,4 @@
+// This file is about the shared TypeScript types for events, bookings, users, and API responses.
 // ─── Event ────────────────────────────────────────────────────────────────────
 
 export interface Event {

@@ -1,4 +1,5 @@
 'use client';
+// This file is about the useDebounce React hook that delays updates to a changing value.
 import { useState, useEffect } from 'react';
 
 /**

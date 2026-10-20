@@ -1,4 +1,5 @@
 'use client';
+// This file is about the event filters bar that syncs search, category, and city to URL params.
 import { useState, useEffect, useCallback } from 'react';
 import { useRouter, useSearchParams, usePathname } from 'next/navigation';
 import Input    from '@/components/ui/Input';

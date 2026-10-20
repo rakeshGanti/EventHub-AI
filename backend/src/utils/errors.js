@@ -1,3 +1,4 @@
+// This file is about custom application error classes that carry HTTP status codes.
 class NotFoundError extends Error {
   constructor(message = 'Resource not found') {
     super(message);

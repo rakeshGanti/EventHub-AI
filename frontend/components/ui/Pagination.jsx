@@ -1,4 +1,5 @@
 'use client';
+// This file is about the Pagination component that builds page ranges with ellipses.
 
 function buildPages(current, total) {
   const delta = 2;

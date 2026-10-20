@@ -1,3 +1,4 @@
+// This file is about the Prisma seed script that upserts test users and static events.
 const { PrismaClient } = require('@prisma/client');
 const bcrypt = require('bcryptjs');
 

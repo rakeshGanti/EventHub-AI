@@ -1,4 +1,5 @@
 'use client';
+// This file is about the admin bookings page with filters, a detail modal, and cancellation.
 import { useState } from 'react';
 import Badge         from '@/components/ui/Badge';
 import Button        from '@/components/ui/Button';

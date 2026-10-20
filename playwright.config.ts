@@ -1,3 +1,4 @@
+// This file is about the Playwright config setting the live baseURL, reporter, and Chromium project.
 import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({

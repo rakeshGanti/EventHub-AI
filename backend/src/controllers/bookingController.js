@@ -1,3 +1,4 @@
+// This file is about HTTP handlers for listing, viewing, creating and cancelling bookings.
 const bookingService = require('../services/bookingService');
 
 const bookingController = {

@@ -1,3 +1,4 @@
+// This file is about loading and exporting environment config (port, DB URL, JWT secret).
 require('dotenv').config();
 
 module.exports = {

@@ -1,3 +1,4 @@
+// This file is about frontend API client calls for register, login and fetching the current user.
 import client from './client';
 
 export const authApi = {

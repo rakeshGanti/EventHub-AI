@@ -1,3 +1,4 @@
+// This file is about the shared fetch-based API client and base URL configuration.
 export const BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:3001/api';
 
 async function request<T>(

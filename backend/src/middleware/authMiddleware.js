@@ -1,3 +1,4 @@
+// This file is about JWT bearer-token middleware that authenticates requests and sets req.user.
 const jwt = require('jsonwebtoken');
 const { JWT_SECRET } = require('../config/env');
 

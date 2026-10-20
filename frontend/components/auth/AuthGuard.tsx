@@ -1,4 +1,5 @@
 'use client';
+// This file is about an auth guard that redirects anonymous users to /login on protected pages.
 import { useEffect } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import { useAuth } from '@/lib/hooks/useAuth';

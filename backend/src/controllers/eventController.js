@@ -1,3 +1,4 @@
+// This file is about HTTP handlers for event list, detail, create, update and delete.
 const eventService = require('../services/eventService');
 
 const eventController = {

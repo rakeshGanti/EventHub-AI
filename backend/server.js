@@ -1,3 +1,4 @@
+// This file is about the server entry point that connects to the DB and starts the API.
 const app    = require('./app');
 const prisma = require('./src/config/database');
 const { PORT } = require('./src/config/env');

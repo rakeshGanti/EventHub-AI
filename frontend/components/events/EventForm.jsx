@@ -1,4 +1,5 @@
 'use client';
+// This file is about the create/edit event form with validation and datetime-local conversion.
 import { useState, useEffect } from 'react';
 import Input   from '@/components/ui/Input';
 import Select  from '@/components/ui/Select';

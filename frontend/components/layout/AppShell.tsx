@@ -1,4 +1,5 @@
 'use client';
+// This file is about the app shell that renders the navbar and footer around page content.
 import { usePathname } from 'next/navigation';
 import Navbar from './Navbar';
 import Footer from './Footer';

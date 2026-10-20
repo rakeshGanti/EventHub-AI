@@ -1,4 +1,5 @@
 'use client';
+// This file is about the admin events page for listing, editing, and deleting events.
 import { useState } from 'react';
 import EventForm from '@/components/events/EventForm';
 import Badge     from '@/components/ui/Badge';

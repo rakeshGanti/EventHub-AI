@@ -1,3 +1,4 @@
+<!-- This file is about setup and quick-start instructions for the EventHub ticket booking app. -->
 # EventHub — Ticket Booking Application
 
 A full-stack ticket booking platform built with **Next.js 14**, **Express.js**, **Prisma ORM**, and **MySQL**.

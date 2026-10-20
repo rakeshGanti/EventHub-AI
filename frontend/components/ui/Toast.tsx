@@ -1,4 +1,5 @@
 'use client';
+// This file is about the toast notification system with a provider and useToast hook.
 import { createContext, useContext, useState, useCallback, useEffect, ReactNode } from 'react';
 
 // ── Types ─────────────────────────────────────────────────────────────────────

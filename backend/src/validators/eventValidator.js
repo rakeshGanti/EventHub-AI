@@ -1,3 +1,4 @@
+// This file is about express-validator rules for event create and update requests.
 const { body, validationResult } = require('express-validator');
 
 /** Inline middleware that short-circuits with 400 if any rule failed */

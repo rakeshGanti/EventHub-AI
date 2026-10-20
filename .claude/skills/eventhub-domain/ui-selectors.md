@@ -1,3 +1,4 @@
+<!-- This file is about the EventHub UI selectors (locators) for the pages used in Playwright tests. -->
 # EventHub UI Selectors Reference
 
 ## Login Page

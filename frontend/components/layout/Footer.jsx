@@ -1,3 +1,4 @@
+// This file is about the site footer with academy branding, course links, and info columns.
 import { BASE_URL } from '@/lib/api/client';
 
 export default function Footer() {

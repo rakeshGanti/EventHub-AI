@@ -1,3 +1,4 @@
+// This file is about event business logic: per-user seat counts, dynamic event limits, ownership.
 const eventRepository   = require('../repositories/eventRepository');
 const bookingRepository = require('../repositories/bookingRepository');
 const { NotFoundError, ForbiddenError } = require('../utils/errors');

@@ -1,3 +1,4 @@
+// This file is about booking business logic: seat checks, booking refs, limits and cancellation.
 const bookingRepository = require('../repositories/bookingRepository');
 const eventRepository   = require('../repositories/eventRepository');
 const prisma            = require('../config/database');  // used for booking.create

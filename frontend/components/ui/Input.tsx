@@ -1,3 +1,4 @@
+// This file is about the Input form component with label, error, and helper text support.
 import React from 'react';
 
 interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {

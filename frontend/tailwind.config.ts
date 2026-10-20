@@ -1,3 +1,4 @@
+// This file is about the Tailwind CSS configuration with content paths and theme extensions.
 import type { Config } from 'tailwindcss';
 
 const config: Config = {

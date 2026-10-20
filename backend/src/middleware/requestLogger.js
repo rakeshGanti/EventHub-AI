@@ -1,3 +1,4 @@
+// This file is about middleware that logs each request's method, URL, status and duration.
 /**
  * Logs method, URL, status code, and response time for every request.
  * Attaches the listener on `res.finish` so the status code is final.

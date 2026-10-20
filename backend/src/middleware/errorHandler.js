@@ -1,3 +1,4 @@
+// This file is about the global Express error handler that maps errors to HTTP responses.
 const { NotFoundError, InsufficientSeatsError, ValidationError, ForbiddenError } = require('../utils/errors');
 
 /**

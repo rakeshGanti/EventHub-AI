@@ -1,4 +1,5 @@
 'use client';
+// This file is about the EventHub home page showing a grid of featured events.
 import Link from 'next/link';
 import { useEvents }    from '@/lib/hooks/useEvents';
 import EventCard, { EventCardSkeleton } from '@/components/events/EventCard';

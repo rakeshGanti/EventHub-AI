@@ -1,4 +1,5 @@
 'use client';
+// This file is about the auth context and hook managing login, registration, and session state.
 import { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react';
 import { useRouter } from 'next/navigation';
 import { authApi } from '@/lib/api/authApi';

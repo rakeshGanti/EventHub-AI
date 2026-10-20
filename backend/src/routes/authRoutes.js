@@ -1,3 +1,4 @@
+// This file is about the Express routes for register, login and current-user (/api/auth).
 const express = require('express');
 const router  = express.Router();
 const authController  = require('../controllers/authController');

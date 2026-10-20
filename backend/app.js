@@ -1,3 +1,4 @@
+// This file is about the Express app setup: middleware, Swagger UI, routes and health checks.
 const express    = require('express');
 const cors       = require('cors');
 const swaggerUi  = require('swagger-ui-express');
